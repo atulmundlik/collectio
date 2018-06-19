@@ -1,0 +1,10 @@
+.idea
+target/
+/.settings/
+.factorypath
+.tern-project
+*.iml
+*.class
+*.jar
+*.pyc
+/.apt_generated/
